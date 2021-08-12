@@ -22,6 +22,16 @@
 
 
     <!-- TODO: Here goes your content! -->
+    <?php include 'navBar.php'; ?>
+    
+    <main role="main" class="container">
+
+      <div class="starter-template">
+        <h1>Home Page</h1>
+        <p class="lead">this is home page</p>
+      </div>
+
+    </main>
 
 
 
